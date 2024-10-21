@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Ashish Sawant</h1>
-<h3 align="center">Data Analyst and Data Science Enthusiast</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/77/29/f4/7729f4ebf5dd3d6754dee0ed5837ef77.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishsawant0027&label=Profile%20views&color=0e75b6&style=flat" alt="ashishsawant0027" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashishsawant0027" alt="ashishsawant0027" /></a> </p>
+<h3 align="center">Data Analysis and Data Science </h3>
 
 - 🌱 I’m currently learning **Prompt Engineering, Different AI Tools**
 
 - 💬 Ask me about **Data Science, Dashboard, BI Tools, Python**
 
 - 📫 How to reach me **ashishsawant0027@gmail.com**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishsawant0027&label=Profile%20views&color=0e75b6&style=flat" alt="ashishsawant0027" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashishsawant0027" alt="ashishsawant0027" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
