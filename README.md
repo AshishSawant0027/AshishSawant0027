@@ -1,26 +1,59 @@
-<h1 align="center">Hi 👋, I'm Ashish Sawant</h1>
-<h3 align="center">Data Analysis and Data Science </h3>
+# 👋 Hi, I'm Ashish Sawant!
 
-- 🌱 I’m currently learning **Prompt Engineering, Different AI Tools**
+🚀 **Data Scientist | Machine Learning Enthusiast | AI Explorer** 🚀
 
-- 💬 Ask me about **Data Science, Dashboard, BI Tools, Python**
+Welcome to my GitHub! I'm a passionate data scientist with a strong foundation in **machine learning**, **data analysis**, and a wide array of cutting-edge technologies. With a Bachelor's degree in Engineering 🏗️ and certifications in **Prompt Engineering**, I’m always exploring the intersection of AI and real-world problem-solving.
 
-- 📫 How to reach me **ashishsawant0027@gmail.com**
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishsawant0027&label=Profile%20views&color=0e75b6&style=flat" alt="ashishsawant0027" /> </p>
+## 🔧 **Technical Skills**
+I have hands-on experience and expertise in:
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashishsawant0027" alt="ashishsawant0027" /></a> </p>
+- 🧠 **Machine Learning** (Supervised & Unsupervised Learning, Deep Learning)
+- 🐍 **Python** (Pandas, Numpy, Scikit-learn, TensorFlow, NLTK)
+- 🗄️ **SQL & MySQL** (Database Management, Query Optimization)
+- 📊 **Power BI & Tableau** (Interactive Dashboards, Data Visualization)
+- 🧮 **Excel** (Advanced Excel, Power Query, Power Pivot, VBA Macros)
+- ☁️ **Azure & AWS** (Cloud Solutions, Data Pipelines)
+- 🛠️ **Big Data Tools** (Hadoop, Apache Spark)
+- 🤖 **Prompt Engineering** (AI-driven creative prompts and problem-solving)
+
+---
+
+## 🌟 **Certifications**
+- 🏆 **Certified Prompt Engineer**
+- ☁️ **AWS Certified**
+- 📊 **Power BI & Tableau Professional**
+- 🔥 **Azure Solutions Architect**
+- 💻 **Hadoop & Apache Spark Specialist**
+
+---
+
+## 🌍 **Projects & Achievements**
+- **Movie Recommendation System** 🎬: Built using NLTK and cosine similarity, achieving over 90% accuracy.
+- **Loan Approval Prediction** 🏦: Machine learning model to predict loan approvals using a financial dataset.
+- **Power BI Dashboards** 📈: Created dynamic dashboards for various domains (Customer Behavior, Financial Analysis, Employee Overview).
+- **SQL & MySQL Projects** 🗄️: Analyzed datasets like second-hand car purchases and HR data for business insights.
+- **Excel Automation** 🔄: Automated inventory and purchase processes using advanced Excel and VBA macros.
+
+---
+
+## 🔍 **What I’m Exploring**
+- 🧑‍💻 Expanding my knowledge in **AI** and **ML** frameworks.
+- 🚀 Delving into **Neural Networks**, **NLP**, and **Deep Learning**.
+- 🛠️ Working on exciting new projects in **Azure**, **AWS**, and **Big Data** solutions.
+- 📚 Constantly learning and staying updated with **data science advancements**.
+
+---
+
+## 🌱 **Let’s Connect!**
+I’m always excited to collaborate on new projects or discuss innovative ideas in AI, ML, and Data Science. Let’s connect!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/data-ashish-sawant/)  
+- 🌐 [GitHub](https://github.com/AshishSawant0027)  
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+💡 _"Data is the new oil, and I’m here to refine it!"_
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashishsawant0027&show_icons=true&locale=en&layout=compact" alt="ashishsawant0027" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishsawant0027&show_icons=true&locale=en" alt="ashishsawant0027" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishsawant0027&" alt="ashishsawant0027" /></p>
